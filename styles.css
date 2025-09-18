@@ -1,0 +1,15 @@
+body {
+    background-color:rgb(252, 194, 238);
+    color:rgb(225, 27, 136);
+    font-family:monospace;
+    
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(255, 79, 211);
+}
+
+h2{
+    background-color:rgb(255, 79, 211)
+}
